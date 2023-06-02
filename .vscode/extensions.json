@@ -1,3 +1,6 @@
 {
-  "recommendations": ["nucllear.vscode-extension-auto-import"]
+  "recommendations": [
+    "nucllear.vscode-extension-auto-import",
+    "moppitz.vscode-extension-auto-import"
+  ]
 }
